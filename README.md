@@ -1,7 +1,7 @@
 # Howdy-Multiverse
 Not An Actual Repo
 
-Yes, I do know how to use git with GitHub, sorta... 
+Yes, I do know how to use git with GitHub
 
 No, I don't like Markdown.
 
